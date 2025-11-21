@@ -52,4 +52,4 @@ plugins: []
 #   - vendor/ruby/
 #
 include:
-  - .well-known/
+  - .well-known/mta-sts.txt
